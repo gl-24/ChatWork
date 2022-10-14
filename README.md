@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# ChatWork
+<div>
+  <p align="center">
+    <img height="250px" width="95%" src="https://user-images.githubusercontent.com/67200542/195823434-5ed622b7-1c20-46c6-8064-5dcd5d6f5ca6.png" alt="ChatWork" />
+  </p> 
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div>
+  Conversations. It's the human way to work.
+  Frustrated and stressed from spending too much time on email?
+  Replace your daily crush of email with real-time chat messages. 
+  With ChatWork, you'll get fast, simple, secure messaging
+  for free, available on web all over the world.
+  What could be simpler.
+</div>
 
-## Available Scripts
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [Introduction](#introduction)
+- [Background](#background)
+- [Usage](#usage)
+- [Example Readmes](#example-readmes)
+- [License](#license)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Background
+“The social media phase of the Internet ended,” declared Fred Wilson—a leading venture capitalist and early investor in Twitter, Foursquare, and Tumblr—in his 2014 “What Just Happened?” year-in-review. He continued:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+> Entrepreneurs and developers still build social applications. We still use them. But there isn't much innovation here anymore…messaging is the new social media…families use WhatsApp groups instead of Facebook. Kids use Snapchat instead of Instagram. Facebook's acquisition of WhatsApp in February of this year was the transaction that defined this trend.
 
-### `npm test`
+## Introduction
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The goals for this repository are:
 
-### `npm run build`
+1. A minimalist **Web App** with simple ui. 
+2. A **Web App** with basic text and images sharing functionalities.
+3. Along with **Authentication** capabalities.
+4. Built using with React JS and Chat Engine!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Usage
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To acess the ChatWork over web [ChatWork](https://bit.ly/3TkOIW5)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Example Readmes
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+To see how the specification has been applied, see the [example-readmes](example-readmes/).
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[MIT](LICENSE) © gl-24
