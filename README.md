@@ -35,7 +35,7 @@ The goals for this repository are:
 1. A minimalist **Web App** with simple ui. 
 2. A **Web App** with basic text and images sharing functionalities.
 3. Along with **Authentication** & **Group Chat** capabalities.
-4. Built using with React JS and Chat Engine!
+4. Built with React JS and Chat Engine!
 
 ## Usage
 
