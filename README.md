@@ -17,8 +17,8 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Background](#background)
+- [Introduction](#introduction)
 - [Usage](#usage)
 - [Example Readmes](#example-readmes)
 - [License](#license)
