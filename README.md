@@ -20,7 +20,7 @@
 - [Background](#background)
 - [Introduction](#introduction)
 - [Usage](#usage)
-- [Example Readmes](#example-readmes)
+- [Example](#example)
 - [License](#license)
 
 ## Background
@@ -42,9 +42,8 @@ The goals for this repository are:
 To acess the ChatWork over web [ChatWork](https://bit.ly/3TkOIW5)
 
 
-## Example Readmes
+## Example
 
-To see how the specification has been applied, see the [example-readmes](example-readmes/).
 
 ## License
 
