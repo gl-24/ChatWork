@@ -39,7 +39,7 @@ The goals for this repository are:
 
 ## Usage
 
-To acess the ChatWork over web [ChatWork](https://bit.ly/3TkOIW5)
+To acess the ChatWork over web [ChatWork](https://chatwork.netlify.app/)
 
 
 ## Example
